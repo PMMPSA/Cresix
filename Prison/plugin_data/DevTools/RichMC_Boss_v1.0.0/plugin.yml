@@ -1,0 +1,5 @@
+name: RichMC_Boss
+version: 1.0.0
+api: 3.2.2
+main: Bosses\Loader
+author: RealAstro #edit_by_heooo

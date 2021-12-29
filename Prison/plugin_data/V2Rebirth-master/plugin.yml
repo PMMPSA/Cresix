@@ -1,0 +1,13 @@
+name: Rebirth
+version: 2.0.0
+main: ThinkerS\Rebirth
+api: 3.0.0
+author: 
+- ThinkerS
+- phuongaz
+- LousWiteMC
+commands:
+ rebirth:
+  description: Rebirth 
+ toprebirth:
+  description: Xem Top Rebirth

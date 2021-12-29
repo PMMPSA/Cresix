@@ -1,0 +1,11 @@
+name: Helper
+main: nlog\Helper\Main
+version: 1.0.0
+author: nlog
+api:
+ - 3.0.0
+
+commands:
+ helper:
+  permission: op
+  description: Set helper player

@@ -1,0 +1,9 @@
+name: muakitpoint
+main: kitpoint\Main
+api: 3.5.8
+version: 1.12
+author: HeraldicClaw597
+
+commands:
+ muakit:
+  description: "§l§ckhu shop kit chỉ bán đồ point"

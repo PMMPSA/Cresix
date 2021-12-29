@@ -1,0 +1,17 @@
+---
+sign.unknown.playercount: '- / -'
+sign.known.playercount: '%DARK_GREEN%%currPlayers%%WHITE%/%GOLD%%maxPlayers%'
+sign.online.line1: '%modt%'
+sign.online.line2: 'IP: %GREEN%%ip%'
+sign.online.line3: 'Port: %DARK_GREEN%%port%'
+sign.online.line4: '%playercount%'
+sign.offline.line1: '%DARK_RED%Offline'
+sign.offline.line2: 'IP: %GREEN%%ip%'
+sign.offline.line3: 'Port: %DARK_GREEN%%port%'
+sign.offline.line4: '%playercount%'
+sign.loading.line1: '%GOLD%Loading...'
+sign.loading.line2: 'IP: %GREEN%%ip%'
+sign.loading.line3: 'Port: %DARK_GREEN%%port%'
+sign.loading.line4: '%playercount%'
+variableSeparator: '%'
+...

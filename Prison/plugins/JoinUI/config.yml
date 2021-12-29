@@ -1,0 +1,8 @@
+---
+# ข้อความต้อนเข้า
+msg: "§a§lCresix Server\n§cVietNam"
+# ข้อความหน้าจอ UI
+title: "§dCresiVN §0[§c§lcách chơi]"
+content: "§f[ §axin chào các bạn đã đến với server cresix§f ]\n§b- §eđầu tiến các bạn nhấp vào NPC AdcidIsland và đứng im và sẽ dịch chuyển đến warp\n§b- §edùng /is claim để mua đảo\n§b- §ecày cuốc để đua top cúp và money\n§b- §edùng /muado /muakit mua bằng point hoặc /menu để mua đồ và kit\n§b- §emỗi cuối tuần sv sẽ event drop và đánh boss để nhận quà\n§l§bchúc các bạn chơi vui vẻ ^_^"
+button: "§0[§l§e xem cách chơi trước khi tắt ]"
+...

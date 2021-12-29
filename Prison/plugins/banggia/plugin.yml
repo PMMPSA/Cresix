@@ -1,0 +1,9 @@
+name: banggia
+main: banggia\banggia
+api: 3.5.8
+version: 0.2
+author: HeralDicclaw
+
+commands:
+ banggia:
+  description: "§r§cbanggia Server " 

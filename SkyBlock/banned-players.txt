@@ -1,0 +1,4 @@
+# Updated 08/28/19 07:33 by PocketMine-MP 3.9.0
+# victim name | ban date | banned by | banned until | reason
+
+list|2019-08-19 17:07:13 +0000|CONSOLE|Forever|

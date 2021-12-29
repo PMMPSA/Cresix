@@ -1,0 +1,72 @@
+---
+# Available tags for broadcast messages, popups and titles:
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Available tags for /sendmessage, /sendpopup and /sendtitle format:
+# - {MESSAGE}: Show message
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {PLAYER}: Message receiver
+# - {SENDER}: Show sender name
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Extra tag for titles:
+# - {SUBTITLE}: Add subtitle (the text after thsb tag will be the content of the subtitle) 
+# Prefix
+prefix: "&6[&aCresix&6]"
+# Suffix
+suffix: "[A]"
+# Date\Time format (replaced in {TIME}). For format codes read http://php.net/manual/en/datetime.formats.php
+datetime-format: "H:i:s"
+# Message broadcast
+message-broadcast:
+ # Enable message broadcast
+ enabled: true
+ # Broadcast interval (in seconds)
+ time: 30
+ # Command /sendmessage format
+ command-format: "&e[{TIME}] {PREFIX}&r {MESSAGE}"
+ # Broadcast messages
+ # - "{PREFIX}&d Vote cho server tại &b&omcpe.guru/votefunnyblock&r&d để có thưởng"
+ messages:
+  - "{PREFIX}&b Nhập lệnh &d&o/shop &bđể hiện khung mua đồ"
+  - "{PREFIX}&b Trở về sảnh chính bằng cách nhập lệnh &d&o/hub"
+  - "{PREFIX}&b Sv còn có thêm chức năng autosell"
+  - "{PREFIX}&b Nhập lệnh &d&o/sb help&r&b để hiển thị trợ giúp"
+  - "{PREFIX}&b Hack sẽ bị ban 2 ngày"
+  - "{PREFIX} &dNạp thẻ dùng lệnh &a/napthe"
+  - "{PREFIX} &aNước+hàngrào=ore"
+# Popup broadcast
+popup-broadcast:
+ # Enable popup broadcast
+ enabled: false
+ # Popup broadcast interval (in seconds)
+ time: 30
+ # Popup duration (in seconds)
+ duration: 5
+ # Command /sendpopup format
+ command-format: "{MESSAGE}"
+ # Popup broadcast messages
+ # - "&dVote tại &b&omcpe.guru/votefunnyblock&r"
+ messages:
+ # - "&dVote tại &b&obit.do/test&r"
+#  - "&eChào mừng đến &aCresix§eSkyBlock!"
+  #- "&a{TOTALPLAYERS}&7/&c{MAXPLAYERS} &engười chơi trực tuyến"
+ # - "&bThời gian hiện tại: {TIME}"
+# Title broadcast
+title-broadcast:
+ # Enable title broadcast
+ enabled: false
+ # Title broadcast interval
+ time: 30
+ # Command /sendtitle format
+ command-format: "&d{MESSAGE}"
+ # Title broadcast messages
+ messages:
+  - "&aWelcome to your server!{SUBTITLE}&bGood game!"
+  - "&eHello player!"
+...

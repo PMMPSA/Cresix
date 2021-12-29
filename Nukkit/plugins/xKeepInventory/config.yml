@@ -1,0 +1,4 @@
+pluginData:
+  isEnabled: true
+messages:
+  onRespawn: "&2[xKeepInventory] > &aOops! &e%playerName&a, you died, but i keep your inventory :)"

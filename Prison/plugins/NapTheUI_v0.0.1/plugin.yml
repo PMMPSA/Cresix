@@ -1,0 +1,10 @@
+name: NapTheUI
+main: MrDinoDuck\NapTheUI\Main
+version: 0.0.1
+api: 3.8.0
+load: POSTWORLD
+author: MrDinoDuck
+description: "Plugin nạp thẻ cho máy chủ Dreamland"
+commands:
+ napthe:
+  description: "NapTheUI"

@@ -1,0 +1,5 @@
+name: RandomBlock
+api: [3.0.0, 4.0.0]
+version: 2.1.1
+main: RandomBlockGen\Generate
+author: KhoaGamingPro - Editor

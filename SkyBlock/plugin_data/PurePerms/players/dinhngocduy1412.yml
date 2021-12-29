@@ -1,0 +1,13 @@
+---
+userName: DinhNgocDuy1412
+group: God
+permissions:
+- pocketmine.command.op
+- blockcmd.access
+- blockcmd.acess
+- pocketmine.command.op
+worlds: []
+time: -1
+prefix: 4
+expTime: -1
+...

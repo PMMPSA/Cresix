@@ -1,0 +1,9 @@
+name: tradeui
+main: trade\Main
+api: 3.5.8
+version: 1.12
+author: HeraldicClaw597
+
+commands:
+ traodoi:
+  description: "§l§alkhu trao đổi đồ tại đây"

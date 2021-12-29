@@ -1,0 +1,20 @@
+---
+minhzasuki:
+  current-vip: 19-08-31,14,VIPII
+  holding-vip:
+  - 10,VIPI
+craftmo:
+  current-vip: 19-08-31,110,VIPV
+  holding-vip:
+  - 120,VIPV
+  - 10,VIPI
+  - 25,VIPII
+  - 85,VIPIV
+  - 45,VIPIII
+ev:
+  current-vip: 19-08-31,20,VIPI
+namdangg:
+  current-vip: 19-08-31,2,VIPI
+  holding-vip:
+  - 25,VIPII
+...

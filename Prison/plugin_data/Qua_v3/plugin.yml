@@ -1,0 +1,8 @@
+name: Qua
+main: AmGm\QT1
+version: 3
+author: AmGM
+api: [3.1.2]
+commands:
+    veso:
+        description: rut tham khong trung thuong

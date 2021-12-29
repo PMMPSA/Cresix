@@ -1,0 +1,27 @@
+---
+userName: craftmo
+group: Diamond
+permissions:
+  3: pocketmine.command.setmoney
+  4: pocketmine.command.gamemode
+  9: pperms.command.setuperm
+  10: pperms.command.unsetuperm
+  11: piggycustomenchants.command
+  12: piggycustomenchants
+  13: minereset.command
+  14: minereset
+  15: pocketmine.command.op
+  16: simplewarp.command
+  17: simplewarp.warp
+  18: simplewarp
+  19: economyapi.command.*
+  20: economyapi.*
+  21: -blockcmd
+  22: -blockcmd.access
+  23: slapper.command
+  24: slapper
+worlds: []
+time: -1
+expTime: -1
+prefix: 4
+...

@@ -1,0 +1,48 @@
+version: '1.0'
+options:
+  prefix: '&f[&e&lSC&r&f]&f'
+crates:
+  default:
+    displayname: '&e&lSimple Crate'
+    rounds: 1
+    key:
+      virtual: false
+      id: 131
+      durability: 0
+      name: '{displayname} Key'
+      lore:
+      - '&eUse on the {name} crate!'
+      enchantments:
+        '17': 3
+    commands:
+      console:
+      - give {user} diamond 1
+      - tell {user} Thanks for downloading SimpleCrates!
+      player:
+      - me is awesome for running this plugin!
+    rewards:
+      items:
+        enchantedglass:
+          id: 20
+          durability: 0
+          chance: 100
+          name: '&r&bEnchanted Glass'
+          lore:
+          - Very special indeed!
+          amount: 16
+          enchantments:
+            '0': 0
+            '5': 2
+        stone-1:
+          id: 1
+          durability: 0
+          chance: 100
+          name: 'null'
+          amount: 16
+      commands:
+        console:
+          give {user} cookie 1:
+            chance: 20
+        player:
+          me I'm epic for using this plugin!:
+            chance: 20

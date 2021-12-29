@@ -1,0 +1,173 @@
+---
+#Don't Change this
+version: "0.5"
+
+#send EnchantUI to the player when he interacts with the Enchanting-table
+enchanting-table: false
+
+#EnchantUI version 0.5
+Title: "§c§lCE MENU"
+Button: "§f•§9 {NAME}§f •"
+slider-title: "§e↣§c Level"
+messages:
+  thanks: "§c↣§e Bạn Đã Thoát Menu"
+  label: "§e↣§b Hãy Cầm Đúng Vật Phẩm  Cần CE\n§e↣§c Lưu Ý: §e( Cầm Sai Sẽ Mất Coin )\n§e↣§c {PRICE} Coin §f/ §c1Lv"
+  not-enough-money: "§c↣§e Bạn Không Đủ Tiền"
+  paid-success: "§c↣§a Enchant Thành Công !"
+  hold-item: "§c↣§e Vui Lòng Cầm Đúng Item Bạn Muốn Enchant"
+  no-perm: "§cYou don't have permission to use this command"
+  incompatible-enchantment:
+  
+#WARNING: Use only Enchantment ID at incompatible-enchantments example [1,10,13]
+shop:
+- name: "Blind ( Mù ) (WEAPONS)"
+  enchantment: blind
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Wither ( Khô Héo ) (WEAPONS)"
+  enchantment: wither
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Poison ( Độc Tố ) (WEAPONS)"
+  enchantment: poison
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Lightning ( Sấm Sét ) (WEAPONS)"
+  enchantment: lightning
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Cripple ( Tê Liệt ) (WEAPONS)"
+  enchantment: cripple
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Lifesteal ( Hút Máu ) (WEAPONS)"
+  enchantment: lifesteal
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Autorepair ( Sửa Chữa ) (DAMAGEABLE)"
+  enchantment: autorepair
+  price: 25
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Driller ( Máy Khoan ) (TOOLS)"
+  enchantment: driller
+  price: 80
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Prowl ( Ẩn Thân ) (CHESTPLATE)"
+  enchantment: prowl
+  price: 200
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Spider ( Nhện ) (CHESTPLATE)"
+  enchantment: spider
+  price: 50
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Drunk ( Say ) (ARMOR)"
+  enchantment: drunk
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Cursed ( Nguyền Rủa ) (ARMOR)"
+  enchantment: cursed
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Poisoned ( Nhiễm Độc ) (ARMOR)"
+  enchantment: poisoned
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Frozen ( Đóng Băng ) (ARMOR)"
+  enchantment: frozen
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Cactus ( Xương Rồng ) (ARMOR)"
+  enchantment: cactus
+  price: 50
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Shielded ( Khiên ) (ARMOR)"
+  enchantment: shielded
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Porkified ( Bắn Heo ) (BOW)"
+  enchantment: porkified
+  price: 150
+  max-level: 3
+  incompatible-enchantments: []
+- name: "Volley ( Bắn Nhiều Tên ) (BOW)"
+  enchantment: volley
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Grappling ( Dịch Chuyển ) (BOW)"
+  enchantment: grappling
+  price: 100
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Blaze ( Cầu Lửa ) (BOW)"
+  enchantment: blaze
+  price: 50
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Paralyze ( Tê Liệt ) (BOW)"
+  enchantment: paralyze
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Healing ( Hồi Máu ) (BOW)"
+  enchantment: healing
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Jetpack ( Tên Lửa ) (BOOTS)"
+  enchantment: jetpack
+  price: 50
+  max-level: 3
+  incompatible-enchantments: []
+- name: "Gears ( Chạy Nhanh ) (BOOTS)"
+  enchantment: gears
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Glowing ( Phát Sáng ) (HELMET)"
+  enchantment: glowing
+  price: 50
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Meditation ( Thiền ) (HELMET)"
+  enchantment: meditation
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Implants ( Hồi Thức Ăn ) (HELMET)"
+  enchantment: implants
+  price: 50
+  max-level: 5
+  incompatible-enchantments: []
+- name: "Antitoxin ( Chống Độc ) (HELMET)"
+  enchantment: antitoxin
+  price: 50
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Lumberjack ( Gỗ Xẻ ) (AXE)"
+  enchantment: lumberjack
+  price: 50
+  max-level: 1
+  incompatible-enchantments: []
+- name: "Fertilizer ( Phân Bón ) (HOE)"
+  enchantment: fertilizer
+  price: 200
+  max-level: 3
+  incompatible-enchantments: []
+...

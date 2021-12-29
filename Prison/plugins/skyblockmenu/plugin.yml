@@ -1,0 +1,9 @@
+name: menu
+main: SkyBlock\Main
+version: 1.0.2
+api: 3.5.8
+author: HeraldicClaw597
+
+commands:
+ menu:
+  description: "§amở menuUI"

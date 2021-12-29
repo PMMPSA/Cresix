@@ -1,0 +1,237 @@
+---
+Member:
+  alias: mem
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - advancedkits.Assassin
+  - advancedkits.Emerald
+  - advancedkits.PVP
+  - advancedkits.Pro
+  - altay.command.ping
+  - essentials.kit
+  - essentials.kit.other
+  - fix.command
+  - pchat.colored.format
+  - pocketmine.commamd.fix
+  - pocketmine.command.sethome
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - tool.fix
+  - tools.fix
+  worlds: []
+  isDefault: true
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  - pocketmine.command.teleport
+  - sell
+  - sell.all
+  - sell.command
+  - sellhand.command
+  worlds:
+    Lobby:
+      isDefault: false
+      permissions: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - '*'
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+MVP:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - pocketmine.command.heal
+  - pocketmine.command.size
+  worlds: []
+Co-Owner:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+Co-OP:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+YouTuber:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  - pocketmine.command.donator
+  - pocketmine.command.enchant
+  - pocketmine.command.size
+  worlds: []
+Coder:
+  alias: cd
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+Builder:
+  alias: bdr
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  - fly.command
+  worlds: []
+God:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - advancedkits.GodTools
+  - advancedkits.Pro
+  - altay.command.ping
+  - essentials.kit
+  - essentials.kit.other
+  - fly.command
+  - pchat.colored.format
+  - pocketmine.commamd.fix
+  - pocketmine.command.me
+  - pocketmine.command.sethome
+  - pocketmine.command.teleport
+  - sel.all
+  - sell
+  - sell.command
+  - sell.hand
+  - tool.fix
+  - tools.fix
+AFK:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - pocketmine.command.mute
+  - pocketmine.command.teleport
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  worlds: []
+VIPIII:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+VIPIV:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+VIPV:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell.all
+  - sell.command
+  - sell.hand
+  worlds: []
+VIPI:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - pocketmine.command.teleport
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  worlds: []
+VIPII:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+cục_cưng:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - pocketmine.command.gamemode
+  - pocketmine.command.teleport
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  worlds: []
+Ăn_mày:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - Blazinvanish.command
+  - blazinvanish.other
+  - fly.command
+  - pocketmine.command.teleport
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  worlds: []
+Phò_Cao_Cấp:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+NOOB:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+...

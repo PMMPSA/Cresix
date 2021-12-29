@@ -1,0 +1,83 @@
+---
+minhzasuki:
+  current-vip: 19-08-31,14,VIPII
+  holding-vip:
+  - 10,VIPI
+craftmo:
+  current-vip: 19-08-31,110,VIPV
+  holding-vip:
+  - 120,VIPV
+  - 10,VIPI
+  - 25,VIPII
+  - 85,VIPIV
+  - 45,VIPIII
+ev:
+  current-vip: 19-08-31,20,VIPI
+namdangg:
+  current-vip: 19-08-31,82,VIPIV
+  holding-vip:
+  - 25,VIPII
+  - 5,VIPI
+greenjajot:
+  current-vip: 19-08-31,6,VIPI
+  holding-vip:
+  - 45,VIPIII
+semeruvn:
+  current-vip: 19-08-31,8,VIPI
+  holding-vip:
+  - 45,VIPIII
+  - 25,VIPII
+  - 9,VIPI
+  - 120,VIPV
+  - 9,VIPI
+  - 25,VIPII
+phanvy12:
+  current-vip: 19-08-31,99996,Police
+  holding-vip:
+  - 119,VIPV
+sicune:
+  current-vip: 19-08-31,7,VIPI
+zanegameryt2002:
+  current-vip: 19-08-31,7,VIPI
+nhu:
+  current-vip: 19-08-31,998,Police
+  holding-vip:
+  - 9998,op
+cra:
+  current-vip: 19-08-31,996,Admin
+zzdamezz:
+  current-vip: 19-08-31,118,VIPV
+  holding-vip:
+  - 24,VIPII
+btieucuong:
+  current-vip: 19-08-31,117,VIPV
+natsukaniki:
+  current-vip: 19-08-31,22,VIPII
+  holding-vip:
+  - 120,VIPV
+B:
+  current-vip: 19-08-31,197,VIPV
+dinh:
+  current-vip: 19-08-31,999999,VIPV
+mar:
+  current-vip: 19-08-31,19997,VIPV
+nat:
+  current-vip: 19-08-31,197,VIPV
+hikunne:
+  current-vip: 19-08-31,8,VIPI
+  holding-vip:
+  - 120,VIPV
+  - 85,VIPIV
+chumpk2007:
+  current-vip: 19-08-31,118,VIPV
+prooftadpole536:
+  current-vip: 19-08-31,8,VIPI
+Hikun:
+  current-vip: 19-08-31,48,VIPI
+namnguyen0305:
+  current-vip: 19-08-31,23,VIPII
+yuisfbi:
+  current-vip: 2019-08-31,10,VIPI
+  holding-vip:
+  - 85,VIPIV
+...

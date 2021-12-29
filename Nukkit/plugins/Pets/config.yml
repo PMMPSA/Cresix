@@ -1,0 +1,8 @@
+configVersion: 3
+nameTagColor: §b
+feedXp: 5
+teleportPets: true
+enableCallPet: true
+callPetSwitchWorld: true
+players:
+  heraldicclaw597: Dog

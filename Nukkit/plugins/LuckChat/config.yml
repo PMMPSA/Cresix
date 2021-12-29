@@ -1,0 +1,7 @@
+FirstRun: false
+Chat:
+  default: '§l§b[%group] §r§e%name% •>%msg%'
+NameTag:
+  update: 20
+  updateAsync: true
+  default: '%name%'

@@ -1,0 +1,23 @@
+---
+parkour:
+  x: 272.607300
+  "y": 41.099000
+  z: 272.292800
+  level: parkour
+  public: true
+  metadata: []
+pk:
+  x: 264.552800
+  "y": 26.729000
+  z: 253.702700
+  level: parkour
+  public: true
+  metadata: []
+pvp:
+  x: 199.367200
+  "y": 45.000000
+  z: 233.549200
+  level: pvp
+  public: true
+  metadata: []
+...

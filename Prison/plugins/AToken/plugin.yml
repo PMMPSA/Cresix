@@ -1,0 +1,41 @@
+---
+name: Token
+main: cresix\BankNotes\Main
+version: 1.0.0
+api:
+- 3.0.0-ALPHA12
+- 3.0.0
+load: POSTWORLD
+author: cresix
+description: A plugin that makes money into an item to trade with!
+softdepend:
+- TokenAPI
+commands:
+  ruttoken:
+    description: giấy token
+    usage: /ruttoken {amount}
+    permission: banknotes.get
+  rutxu:
+    description: giấy token
+    usage: /rutxu {amount}
+    permission: banknotes.get
+  laytoken:
+    description: ghi thêm số lượng để nhận thêm token
+    usage: /laytoken {amount}
+    permission: banknotes.get
+  deposit:
+    description: Deposit a note to your account
+    usage: /deposit
+    permission: banknotes.deposit
+permissions:
+  laytoken:
+    default: true
+    description: bankNotes root permission (useless)
+    children:
+      banknotes.get:
+        default: true
+        description: allow players to withdraw banknotes
+      banknotes.deposit:
+        default: true
+        description: allow players to deposit banknotes
+...

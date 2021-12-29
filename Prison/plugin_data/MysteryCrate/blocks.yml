@@ -1,0 +1,22 @@
+---
+common: §6Common §aCrate
+common.x: 184
+common.y: 5
+common.z: 163
+vote: §6Vote §aCrate
+vote.x: 184
+vote.y: 5
+vote.z: 165
+legendary: §6Legendary §aCrate
+legendary.x: 184
+legendary.y: 5
+legendary.z: 161
+mythic: §6Mythic §aCrate
+mythic.x: 184
+mythic.y: 5
+mythic.z: 159
+uncommon: §6Uncommon §aCrate
+uncommon.x: 184
+uncommon.y: 5
+uncommon.z: 167
+...

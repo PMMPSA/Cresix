@@ -1,0 +1,14 @@
+# TimeCommander
+#
+# Command: Command to execute
+# Time: Amount of time in ticks until command is executed
+
+Commands:
+  - Command: mine reset-all
+    Time: 10000
+  - Command: say §l§9Sắp Reset Mine Lo Mà Né
+    Time: 9000
+  - Command: say §l§9đã hoàn tất reset-all
+    Time: 10000
+  - Command: say §9§lMỗi Đợt Reset Bạn Nhận Được 1 Cái Kick (Troll)
+    Time: 10000  

@@ -1,0 +1,16 @@
+---
+name: DanhHieuSystem
+main: phuongaz\DanhHieu\Loader
+version: 0.1Beta
+api:
+- 3.0.0
+author: phuongaz
+website: https://github.com/ZzKino
+
+commands:
+ danhhieu:
+  description: Danh Hiệu
+ nhandanhhieu:
+  description: Nhận danb hiệu ( cầm giấy xác nhận trên tay )
+  
+...

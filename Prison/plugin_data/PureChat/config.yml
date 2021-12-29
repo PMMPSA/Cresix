@@ -1,0 +1,148 @@
+---
+version: 1.4.10-6
+default-factions-plugin: FactionsPro
+groups:
+  YouTuber:
+    nametag: §l§6[§a{fac_name}§6]&b&l✿§e»﹏§cƴᴏᴜ§7ƭᴜɓε§e﹏«§b✿ &6&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&b&l✿§e»﹏§cƴᴏᴜ§7ƭᴜɓε§e﹏«§b✿ &6&r{display_name} &b☞ {msg}
+  Owner:
+    nametag: §l§6[§a{fac_name}§6]&d&l♚§3﹏§bOwner§3﹏§d♚&b&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&d&l♚§3﹏§bOwner§3﹏§d♚&b&r{display_name} &b☞ {msg}
+  Member:
+    nametag: §l§6[§a{fac_name}§6]&b&l❁§a◕§9﹏§eℳεᵯɓεɾ§9﹏§a◕§b❁&f&r {display_name}
+    chat: §l§6[§a{fac_name}§6]&b&l❁§a◕§9﹏§eℳεᵯɓεɾ§9﹏§a◕§b❁&f&r {display_name} &7☞
+      {msg}
+  Admin:
+    nametag: §l§6[§a{fac_name}§6]&d&l♚§3﹏§bAdmin§3﹏§d♚&3&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&d&l♚§3﹏§bAdmin§3﹏§d♚&3&r{display_name} &b☞ {msg}
+  Police:
+    nametag: §l§6[§a{fac_name}§6]&e&l❂§b◬‿§aPolice§b‿◬§e❂&f&r{display_name}
+    chat: §b•{fac_name}• §l❂§b◬‿§aPolice‿◬§e❂& §r{display_name} §e>{msg}<
+  Co-Owner:
+    nametag: §l§6[§a{fac_name}§6]&e&lミ★§a⊶§bℭo§d❍ཡɳεɾ§a⊷§e★彡&6&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&e&lミ★§a⊶§bℭo§d❍ཡɳεɾ§a⊷§e★彡&6&r{display_name} &6☞ {msg}
+  OP:
+    nametag: §l§6[§a{fac_name}§6]&l§a☘§6۩﹏§b❍§dƤ§6﹏۩§c☠&6&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&l§a☘§6۩﹏§b❍§dƤ§6﹏۩§c☠&6&r{display_name} &6☞ {msg}
+  Co-OP:
+    nametag: §l§6[§a{fac_name}§6]&l§a☘§6۩﹏§bCo&7-§dOP§6﹏۩§c☠&6&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&l§a☘§6۩﹏§bCo&7-§dOP§6﹏۩§c☠&6&r{display_name} &6☞ {msg}
+  Coder:
+    nametag: §l§6[§a{fac_name}§6]&l§a☘§6۩﹏§bCo§dder§6﹏۩§c☠&6&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&l§a☘§6۩﹏§bCo§dder§6﹏۩§c☠&6&r{display_name} &6☞ {msg}
+  Topmoney:
+    nametag: §l§6[§a{fac_name}§6]&e&lミ★§a⊶§bRich§dKid§a⊷§e★彡&6&r{display_name}
+    chat: §l§6[§a{fac_name}§6]&e&lミ★§a⊶§bRich§dKid§a⊷§e★彡&6&r{display_name} &6☞ {msg}
+  MVP:
+    nametag: '&8&l[MVP]&f&r {display_name}'
+    chat: '&8&l[MVP]&f&r {display_name} &7> {msg}'
+  Builder:
+    nametag: '[][§e•§b...§aBuilder§b...§e•§r][] {display_name}'
+    chat: §0[§7{fac_name}§0] §1•›…§d§lBuilder§r§1…‹• §e§l{display_name}§r §7➡ §b{msg}
+  God:
+    nametag: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6God§7﹏§a◕§b❁&f&r {display_name}
+    chat: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6God§7﹏§a◕§b❁&f&r {display_name} &7☞ {msg}
+  Nói_nhiều:
+    chat: kẹc_kẹc_kẹc_kẹc_Tooo §e§l{display_name} §a kẹc kẹc kẹc kẹc kẹc
+    nametag: '&8&l[Nói_nhiều]&f&r {display_name}'
+  Master:
+    chat: §6[] §c[§eMaster§c] §5{display_name} [Trùm_Server] → §e{msg}
+    nametag: '&8&l[Master]&f&r {display_name}'
+  POLICE:
+    nametag: '&8&l[POLICE]&f&r {display_name}'
+    chat: '&8&l[POLICE]&f&r {display_name} &7> {msg}'
+  AFK:
+    chat: '[] §c§l[§eAFK§c] §f§r§f{display_name} §e§l§o→ {msg} [AFKTeam]'
+    nametag: '&8&l[AFK]&f&r {display_name}'
+  Buidd:
+    nametag: '&8&l[Buidd]&f&r {display_name}'
+    chat: '&8&l[Buidd]&f&r {display_name} &7> {msg}'
+  Pan:
+    nametag: '&8&l[Pan]&f&r {display_name}'
+    chat: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6VipV§7﹏§a◕§b❁&f&r {display_name} &7☞ {msg}
+    VIPI:
+      nametag: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6VipI§7﹏§a◕§b❁&f&r {display_name}
+    VIPII:
+      nametag: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6VipII§7﹏§a◕§b❁&f&r {display_name}
+    VIPIII:
+      nametag: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6VIPIII§7﹏§a◕§b❁&f&r {display_name}
+    VIV:
+      nametag: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6VipIV§7﹏§a◕§b❁&f&r {display_name}
+    VIPV:
+      nametag: §l§6[§a{fac_name}§6]&b&l❁§a◕§7﹏§6VIPV§7﹏§a◕§b❁&f&r {display_name}
+  VIPV:
+    nametag: §3[§e ๖²⁴ʱVїρ⁵༉§3] §a{display_name}
+    chat: §3[§e ๖²⁴ʱVїρ⁵༉§3] §a{display_name} §c=•> §6{msg}
+  VIPI:
+    nametag: §3[§e ๖²⁴ʱVїρ¹༉§3] §a{display_name}
+    chat: §3[§e ๖²⁴ʱVїρ¹༉§3] §a{display_name} §c=•> §6{msg}
+  VIPIII:
+    nametag: §3[§e ๖²⁴ʱVเρ³༉§3] §a{display_name}
+    chat: §3[§e ๖²⁴ʱVเρ³༉§3] §a{display_name} §c=•> §6{msg}
+  cục_cưng:
+    chat: §l§6[§a{fac_name}§6] §e?๖ۣۜCụ¢๖ۣۜCưηɠ• §r§b{display_name} §r•>{msg}
+    nametag: '&8&l[cục_cưng]&f&r {display_name}'
+  VIPII:
+    nametag: §3[§e ๖²⁴ʱ๖ۣۜVĭρ²༉§3] §a{display_name}
+    chat: §3[§e ๖²⁴ʱ๖ۣۜVĭρ²༉§3] §a{display_name} §c=•> §6{msg}
+  VIPIV:
+    nametag: §3[§e ๖²⁴ʱVเρ⁴༉§3] §a{display_name}
+    chat: §3[§e ๖²⁴ʱVเρ⁴༉§3] §a{display_name} §c=•> §6{msg}
+  A:
+    nametag: '&8&l[A]&f&r {display_name}'
+    chat: §l§6[{fac_name}] §e[A] §r{display_name} §l§a❁>§r{msg}
+  B:
+    chat: §l§6[{fac_name}] §e[B] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[B]&f&r {display_name}'
+  C:
+    chat: §l§6[{fac_name}] §e[C] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[C]&f&r {display_name}'
+  D:
+    chat: §l§6[{fac_name}] §e[D] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[D]&f&r {display_name}'
+  E:
+    chat: §l§6[{fac_name}] §e[E] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[E]&f&r {display_name}'
+  F:
+    chat: §l§6[{fac_name}] §e[F] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[F]&f&r {display_name}'
+  G:
+    chat: §l§6[{fac_name}] §e[G] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[G]&f&r {display_name}'
+  H:
+    chat: §l§6[{fac_name}] §e[H] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[H]&f&r {display_name}'
+  I:
+    chat: §l§6[{fac_name}] §e[I] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[I]&f&r {display_name}'
+  K:
+    chat: §l§6[{fac_name}] §e[K] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[K]&f&r {display_name}'
+  M:
+    chat: §l§6[{fac_name}] §e[M] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[M]&f&r {display_name}'
+  "N":
+    chat: §l§6[{fac_name}] §e[Z] §r{display_name} §l§a❁>§r{msg}
+    nametag: '&8&l[Z]&f&r {display_name}'
+    O: ~
+    P: ~
+    Q: ~
+    S: ~
+    T: ~
+    U: ~
+    V: ~
+    W: ~
+    X: ~
+    "Y": ~
+    Z: ~
+  O:
+    nametag: '&8&l[O]&f&r {display_name}'
+  P:
+    nametag: '&8&l[P]&f&r {display_name}'
+  Q:
+    nametag: '&8&l[Q]&f&r {display_name}'
+  S:
+    nametag: '&8&l[S]&f&r {display_name}'
+  T:
+    nametag: '&8&l[T]&f&r {display_name}'
+...

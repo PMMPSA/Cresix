@@ -1,0 +1,19 @@
+---
+# Default Config
+# A Plugin by InspectorGadget
+# ---
+# true - Enable, false - Disable
+enable: true
+# ---
+
+# Command Array (Must have '/' infront!)
+commands:
+  - /kick
+  - /ban
+
+# true - Enable, false - Disable | Discord Config
+discord:
+  enable: false
+  spam-logs: true
+  webhook: ""
+...

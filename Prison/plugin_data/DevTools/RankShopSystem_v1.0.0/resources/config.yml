@@ -1,0 +1,72 @@
+# - Rank Cost Configuration -
+
+group1.cost: 10
+group2.cost: 20
+group3.cost: 50
+group4.cost: 100
+group5.cost: 200
+
+# -= Rank Purchase / Fail Configuration =-
+
+group1.complete: §a Bạn đã mua §eVip§dI
+group1.failed: §c Bạn không đủ point để mua §eVip§dI
+
+group2.complete: §a Bạn đã mua §eVip§dII
+group2.failed: §c Bạn không Point để mua §eVip§dII
+
+
+group3.complete: §a Bạn đã mua mua §eVip§III
+group3.failed: §c Bạn không đủ Point để mua §eVip§dIII
+
+group4.complete: §a Bạn đã mua §eVip§dIV
+group4.failed: §c Bạn không đủ Point để mua §eVip§dIV
+
+group5.complete: Bạn đã mua §eVip§dV
+group5.failed: §c Bạn không đủ Point để mua §eVip§dV
+
+# -= Content Configuration -=
+
+group1.info: mua §eVip§dI với gá 10$ point
+group2.info: mua §eVip§dII với gá 20$ point
+group3.info: mua §eVip§dII với gá 50$ point
+group4.info: mua §eVip§dIV với gá 100$ point
+group5.info: mua §eVip§dV với gá 200$ point
+
+# -= Others Configuration =-
+ 
+title.muarank: §bRankShop
+
+othermsg1complete.txt: §eVip§dI
+othermsg2complete.txt: §eVip§dII
+othermsg3complete.txt: §eVip§dIII
+othermsg4complete.txt: §eVip§dIV
+othermsg5complete.txt: §eVip§dV
+
+othermsg1fail.txt:  không mua được  §eVip§dI
+othermsg2fail.txt: không mua được  §eVip§dII
+othermsg3fail.txt: không mua được §eVip§dIII
+othermsg4fail.txt: không mua được §eVip§dIV
+othermsg5fail.txt: không mua được §eVip§dV
+
+purchase1.title: Buyed
+purchase2.title: Buyed
+purchase3.title: Buyed
+purchase4.title: Buyed
+purchase5.title: Buyed
+
+group1.name: §e༄༂§4●§cVᴵᴾ§dI§4●§e༂࿐
+group2.name: §e༄༂§4●§cVᴵᴾ§dII§4●§e༂࿐
+group3.name: §e༄༂§4●§cVᴵᴾ§dIII§4●§e༂࿐
+group4.name: §e༄༂§4●§cVᴵᴾ§dVI§4●§e༂࿐
+group5.name: §e༄༂§4●§cVᴵᴾ§bV§4●§e༂࿐
+
+# Features Configuration
+# Shows a list of features of the rank. Edit it here
+
+group1.features: Fly
+group2.features: Fly
+group3.features: Fly
+group4.features: Fly 
+group5.features: Fly
+
+...

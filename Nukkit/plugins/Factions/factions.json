@@ -1,0 +1,41 @@
+{
+  "0": {
+    "money": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "powerBoost": 0.0
+  },
+  "-1": {
+    "money": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "SafeZone",
+    "description": "Free from PVP and monsters",
+    "powerBoost": 0.0
+  },
+  "-2": {
+    "money": 0.0,
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "WarZone",
+    "description": "Not the safest place to be",
+    "powerBoost": 0.0
+  }
+}

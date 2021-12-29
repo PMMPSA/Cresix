@@ -1,0 +1,7 @@
+---
+async-task-call-ticks: 200
+always-start-async-task: false
+server-query-timeout-sec: 2.500000
+debug: false
+ConfigVersion: 3
+...

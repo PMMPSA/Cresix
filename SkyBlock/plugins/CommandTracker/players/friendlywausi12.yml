@@ -1,0 +1,68 @@
+---
+08-03-2019 11:32:08: 'Player: FriendlyWausi12 | Command: /slapper id'
+08-03-2019 11:32:25: 'Player: FriendlyWausi12 | Command: /slapper edit '
+08-03-2019 11:34:42: 'Player: FriendlyWausi12 | Command: /slapper edit 7 menuname
+  Mua Đồ {line}●Xem Và Mua Các Món Đồ Độc Lạ'
+08-03-2019 11:49:57: 'Player: FriendlyWausi12 | Command: /slapper remobe'
+08-03-2019 11:50:03: 'Player: FriendlyWausi12 | Command: /slapper remove'
+08-03-2019 11:54:24: 'Player: FriendlyWausi12 | Command: /pocketmine:op DinhNgocDuy1412'
+08-03-2019 12:44:36: 'Player: FriendlyWausi12 | Command: /slapper spawn Player §e§l•§aSky§bBlock§e•
+  {line}§l§e》§fTap Để Dịch Chuyển Đến Một Đảo Trống Bất Kì§e《'
+08-03-2019 12:45:09: 'Player: FriendlyWausi12 | Command: /slapper edit 148 addcommand
+  rca {player} is auto'
+08-03-2019 12:45:31: 'Player: FriendlyWausi12 | Command: /tp ngoc'
+08-03-2019 12:51:38: 'Player: FriendlyWausi12 | Command: /slapper edit 169 §e§l•§fThợ
+  Rèn§e• {line}§e》§f§lCầm Vật Phẩm Muốn Sửa Trên Tay Và Tap Vào§e《'
+08-03-2019 12:52:13: 'Player: FriendlyWausi12 | Command: /slapper edit'
+08-03-2019 12:52:22: 'Player: FriendlyWausi12 | Command: /slapper edit 169 menuname
+  name'
+08-03-2019 12:57:00: 'Player: FriendlyWausi12 | Command: /slapper edit 169 name §e§l•§aAcid§b
+  Island§e• {line}§e§l》§bTap Vào Để Xem Bảng Trợ Giúp Lệnh §cIsland§e《'
+08-03-2019 12:57:31: 'Player: FriendlyWausi12 | Command: /slapoer edit 169 addcommand
+  rca {player} is help'
+08-03-2019 12:57:53: 'Player: FriendlyWausi12 | Command: /slapper edit 169 addcommand
+  rca {player} is help'
+08-03-2019 12:58:26: 'Player: FriendlyWausi12 | Command: /list'
+08-03-2019 12:58:40: 'Player: FriendlyWausi12 | Command: /tp hera dinh'
+08-04-2019 12:06:01: 'Player: FriendlyWausi12 | Command: /ops'
+08-04-2019 12:07:41: 'Player: FriendlyWausi12 | Command: /setgroup Friend Co-Owner'
+08-04-2019 12:11:39: 'Player: FriendlyWausi12 | Command: /setformat Guest null {fac_name}
+  ๖ɢυєѕтツ {display_name} ●》{msg}'
+08-04-2019 12:11:46: 'Player: FriendlyWausi12 | Command: /groups'
+08-04-2019 12:13:16: 'Player: FriendlyWausi12 | Command: /setformat Member null {fac_name}
+  ๖Memberツ {display_name} ●》{msg} '
+08-04-2019 12:13:27: 'Player: FriendlyWausi12 | Command: /setgroup frie Member'
+08-04-2019 12:14:42: 'Player: FriendlyWausi12 | Command: /setformat Member null {fac_name}
+  ๖ɢυєѕтツ {display_name} ●》{msg}'
+08-04-2019 12:16:05: 'Player: FriendlyWausi12 | Command: /setformat Member null {fac_name}
+  ๖ɢυєѕтツ {display_name} ●》{msg}'
+08-04-2019 12:16:51: 'Player: FriendlyWausi12 | Command: /f create ?'
+08-04-2019 12:17:14: 'Player: FriendlyWausi12 | Command: /f create DuyDepTrai'
+08-04-2019 12:18:14: 'Player: FriendlyWausi12 | Command: /say ban thu??'
+08-04-2019 12:18:33: 'Player: FriendlyWausi12 | Command: /say thg hera no noi dinh
+  chi gun'
+08-04-2019 12:23:49: 'Player: FriendlyWausi12 | Command: /setformat Helper null {fac_name}
+  ✿нєℓρєяʚɞ 》{display_name} ●》{msg}'
+08-04-2019 12:24:17: 'Player: FriendlyWausi12 | Command: /setgroup Fri Helper'
+08-04-2019 12:30:00: 'Player: FriendlyWausi12 | Command: /setformat Member null &l&c{fac_name}
+  &f&l๖ɢυєѕтツ &e{display_name} &e&l●》&l&f{msg}'
+08-04-2019 12:30:13: 'Player: FriendlyWausi12 | Command: /setgroup frie Member'
+08-04-2019 12:30:46: 'Player: FriendlyWausi12 | Command:  /warp'
+08-04-2019 12:30:54: 'Player: FriendlyWausi12 | Command: /warp'
+08-04-2019 12:31:14: 'Player: FriendlyWausi12 | Command: /listwarps'
+08-04-2019 12:32:00: 'Player: FriendlyWausi12 | Command: /give fri grass'
+08-04-2019 12:33:29: 'Player: FriendlyWausi12 | Command: /is claim'
+08-04-2019 12:34:44: 'Player: FriendlyWausi12 | Command:  //set id'
+08-04-2019 12:38:06: 'Player: FriendlyWausi12 | Command: /setformat Helper null &l&c{fac_name}
+  &e✿&aнєℓρєя&bʚɞ &e》&a{display_name} &e●》&b{msg}'
+08-04-2019 12:38:19: 'Player: FriendlyWausi12 | Command: /setgroup fri Helper'
+08-04-2019 12:38:31: 'Player: FriendlyWausi12 | Command: /tp ngoc'
+08-04-2019 12:38:34: 'Player: FriendlyWausi12 | Command: /fly'
+08-04-2019 12:38:47: 'Player: FriendlyWausi12 | Command: /gamemode c'
+08-04-2019 12:38:53: 'Player: FriendlyWausi12 | Command: //wand'
+08-04-2019 12:39:24: 'Player: FriendlyWausi12 | Command: //set 2'
+08-04-2019 12:41:08: 'Player: FriendlyWausi12 | Command: //set 2'
+08-04-2019 12:46:24: 'Player: FriendlyWausi12 | Command: /setformat &l&c{fac_name}&e
+  ✎&cвυιℓ∂єя&a✿ &c》&e{display_name} &c●》&b{msg}'
+08-04-2019 12:46:32: 'Player: FriendlyWausi12 | Command: /groups'
+...

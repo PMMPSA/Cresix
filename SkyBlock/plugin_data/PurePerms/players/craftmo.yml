@@ -1,0 +1,22 @@
+---
+userName: craftmo
+group: Member
+permissions:
+- pocketmine.command.op
+- pperms.command
+- pperms
+- economyapi.command.*
+- economyapi.*
+- piggycustomenchants.command
+- piggycustomenchants
+- pocketmine.command.op
+- pperms
+- pperms.command
+- pperms.
+- pocketmine.command.gamemode
+- pocketmine:op
+worlds: []
+time: -1
+prefix: 4
+expTime: -1
+...

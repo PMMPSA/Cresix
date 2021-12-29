@@ -1,0 +1,24 @@
+name: SpeedEffect
+main: SpeedEffect\Main
+version: 5.2.3
+api: [3.0.0]
+author: luca28pet
+description: Add kits to your server
+website: https://github.com/luca28pet/AdvancedKits
+softdepend: [PurePerms, PiggyCustomEnchants, FormAPIPlus]
+commands:
+ speed:
+  description: Effect Chạy Nhanh
+  usage: "/speed 1 -> 5"
+  permission: s.command
+ sr:
+  descrpition: 
+  usage: "/sr"
+  permission: s.admin
+permissions:
+ s.command:
+  description: ""
+  default: true
+ s.admin:
+  description: "s"
+  default: op

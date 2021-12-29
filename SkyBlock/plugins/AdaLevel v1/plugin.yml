@@ -1,0 +1,10 @@
+name: Seviye
+version: 1.0
+api: 4.0.0
+main: gmgs\AdaSeviye
+author: Thebarisgmgs
+commands:
+ leveldao:
+  description: "§blevel đảo"
+ topdao:
+  description: "§bTop đảo"

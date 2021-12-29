@@ -1,0 +1,255 @@
+---
+A:
+  alias: ""
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.a
+  worlds: []
+  isDefault: true
+B:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.b
+  worlds: []
+C:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.c
+  worlds: []
+D:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.d
+  worlds: []
+E:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.e
+  worlds: []
+F:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.f
+  worlds: []
+G:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.g
+  worlds: []
+H:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.h
+  worlds: []
+I:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.I
+  worlds: []
+K:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.k
+  worlds: []
+M:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.m
+  worlds: []
+"N":
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.n
+  worlds: []
+O:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.o
+  worlds: []
+P:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.p
+  worlds: []
+Q:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.q
+  worlds: []
+S:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.s
+  worlds: []
+T:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.t
+  worlds: []
+U:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.u
+  worlds: []
+V:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.v
+  worlds: []
+W:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.w
+  worlds: []
+X:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.x
+  worlds: []
+"Y":
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.y
+  worlds: []
+Z:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - simplewarp.warp.z
+  worlds: []
+...

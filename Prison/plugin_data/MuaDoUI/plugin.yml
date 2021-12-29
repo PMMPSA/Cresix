@@ -1,0 +1,9 @@
+name: MuaDoUI
+main: MuaDoUI\Main
+api: 3.5.8
+version: 1.12
+author: HeraldicClaw597
+
+commands:
+ muado:
+  description: "§l§a mua đồ lậu tại đây"

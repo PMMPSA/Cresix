@@ -1,0 +1,7 @@
+name: WaterEffect
+
+main: WaterEffect\Main
+version: 2.0.0
+api: [3.0.0]
+
+author: phuongaz

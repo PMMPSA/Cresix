@@ -1,0 +1,43 @@
+---
+groups:
+  Silver:
+    entrance:
+    - setgroup {name} Silver
+    exit: []
+    perms: []
+    members:
+      0: HiKunNe
+      8: JadedPlace82375
+      9: marilist
+      10: AverageGolf6263
+      11: phanvy12
+  Gold:
+    entrance:
+    - setgroup {name} Gold
+    exit: []
+    perms: []
+    members:
+      1: HiThangNe
+      6: LamGaming1
+      7: UnluckyZoo96185
+      8: Zimaster0
+      9: ToiLaAi1412
+  Diamond:
+    entrance:
+    - setgroup {name} Diamond
+    exit: []
+    perms: []
+    members:
+    - DinhNgocDuy1412
+    - HeraldicClaw597
+    - CaptainHuynh95
+    - YmZ Killito
+    - NgocNekcau
+    - craftmo
+    - BoxierLettuce26
+    - NamDangg
+    - CrussCy
+    - Nhunekban
+    - CleanestOrc6037
+    - EntombedMaple85
+...

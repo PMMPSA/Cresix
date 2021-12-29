@@ -1,0 +1,34 @@
+PLAYER:
+  default: '%killer% killed %name% with %weapon%'
+ENTITY_EXPLOSION:
+  default: '%killer% blew %name% up'
+CONTACT:
+  default: '%name% felt a little bad touch'
+PROJECTILE:
+  default: '%name% was killed by %killer%''s %weapon'
+ENTITY_ATTACK:
+  default: '%name% couldn''t survive %killer%''s attack'
+LIGHTNING:
+  default: God of thunder gave %name% his power but %name% wasn't strong enough to wield it
+SUFFOCATION:
+  default: '%name% got suffocated. How the hell did they get there anyway?'
+FALL:
+  default: '%name% believed %name% could fly'
+FIRE:
+  default: '%name% was so hot. Literally.'
+FIRE_TICK:
+  default: '%name%''s body couldn''t stand how hot %name% was.'
+LAVA:
+  default: '%name%''s floor was lava'
+DROWNING:
+  default: '%name% tried to learn how a fish breathes'
+BLOCK_EXPLOSION:
+  default: '%name% took a massive blow'
+VOID:
+  default: '%name% got lost in eternal darkness'
+SUICIDE:
+  default: Suicide helpline wasn't fast enough for %name%
+MAGIC:
+  default: Some witchcraft was done on %name%
+HUNGER:
+  default: '%name%''s diet control was too extreme'

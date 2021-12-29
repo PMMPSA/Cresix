@@ -1,0 +1,21 @@
+{
+    "PvP1": {
+        "pos1": [
+            214,
+            0,
+            216
+        ],
+        "pos2": [
+            188,
+            256,
+            245
+        ],
+        "world": "pvp",
+        "pvp": "off",
+        "edit": "off",
+        "touch": "off",
+        "players": [
+            "DinhNgocDuy1412"
+        ]
+    }
+}

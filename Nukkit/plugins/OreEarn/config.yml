@@ -1,0 +1,20 @@
+---
+# Do not edit the config version.
+cfg-version: 1
+
+# If false players can earn money by breaking ores with silktouch
+ignoreSilktouch: true
+# If false players won't get an popup anymore by breaking an ore
+enablePopup: true
+
+earnings:
+  stoneEarn: 0.02
+  quartzEarn: 2.5
+  coalEarn: 1.0
+  ironEarn: 2.0
+  redstoneEarn: 2.0
+  lapisEarn: 15.0
+  goldEarn: 25.0
+  diamondEarn: 50.0
+  emeraldEarn: 75.0
+...

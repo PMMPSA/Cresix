@@ -1,0 +1,11 @@
+---
+userName: FriendlyWausi12
+group: MEMBER
+permissions:
+- pocketmine.command.op
+- blockcmd.access
+worlds: []
+time: -1
+prefix: 1
+expTime: -1
+...

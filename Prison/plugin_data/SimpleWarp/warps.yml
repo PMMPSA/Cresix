@@ -1,0 +1,226 @@
+---
+pvp:
+  x: 350.974100
+  "y": 48.000000
+  z: 337.542600
+  level: ender
+  public: true
+  metadata: []
+plot2:
+  x: 209.979800
+  "y": 65.000000
+  z: 271.342000
+  level: plot2
+  public: true
+  metadata: []
+o:
+  x: 679.727800
+  "y": 38.000000
+  z: -41.796900
+  level: a
+  public: false
+  metadata: []
+p:
+  x: 876.470300
+  "y": 34.000000
+  z: -33.309400
+  level: a
+  public: false
+  metadata: []
+q:
+  x: 1061.741300
+  "y": 41.000000
+  z: -0.000500
+  level: a
+  public: false
+  metadata: []
+s:
+  x: 269.557900
+  "y": 20.000000
+  z: 78.489800
+  level: a
+  public: false
+  metadata: []
+t:
+  x: 128.445900
+  "y": 62.000000
+  z: 101.727300
+  level: a
+  public: false
+  metadata: []
+u:
+  x: 370.665200
+  "y": 53.000000
+  z: 127.656300
+  level: a
+  public: false
+  metadata: []
+v:
+  x: 514.726000
+  "y": 31.000000
+  z: 121.554700
+  level: a
+  public: false
+  metadata: []
+w:
+  x: 486.590200
+  "y": 23.000000
+  z: 227.682100
+  level: a
+  public: false
+  metadata: []
+x:
+  x: 526.722000
+  "y": 32.000000
+  z: 391.296800
+  level: a
+  public: false
+  metadata: []
+"y":
+  x: 414.432900
+  "y": 41.000000
+  z: 309.583500
+  level: a
+  public: false
+  metadata: []
+z:
+  x: 10006.954100
+  "y": 23.000000
+  z: 99977.117200
+  level: a
+  public: false
+  metadata: []
+wait:
+  x: 10061.461900
+  "y": 23.000000
+  z: 100226.281300
+  level: a
+  public: false
+  metadata: []
+pk:
+  x: 146.160800
+  "y": 72.000000
+  z: 66.752500
+  level: Plot
+  public: true
+  metadata: []
+a:
+  x: 9791.530300
+  "y": 30.000000
+  z: 100005.375000
+  level: a
+  public: false
+  metadata: []
+b:
+  x: 9785.421900
+  "y": 29.000000
+  z: 100061.945300
+  level: a
+  public: false
+  metadata: []
+c:
+  x: 9792.475600
+  "y": 30.000000
+  z: 100113.296900
+  level: a
+  public: false
+  metadata: []
+d:
+  x: 9791.527300
+  "y": 30.000000
+  z: 100175.562500
+  level: a
+  public: false
+  metadata: []
+e:
+  x: 9774.301800
+  "y": 33.000000
+  z: 100333.500000
+  level: a
+  public: false
+  metadata: []
+bell:
+  x: 10099.392600
+  "y": 10.701900
+  z: 100145.437500
+  level: a
+  public: false
+  metadata: []
+f:
+  x: 9771.397500
+  "y": 32.000000
+  z: 100398.468800
+  level: a
+  public: false
+  metadata: []
+g:
+  x: 9768.299800
+  "y": 32.000000
+  z: 100463.656300
+  level: a
+  public: false
+  metadata: []
+h:
+  x: 9767.299800
+  "y": 31.000000
+  z: 100522.492200
+  level: a
+  public: false
+  metadata: []
+i:
+  x: 9767.299800
+  "y": 31.000000
+  z: 100574.492200
+  level: a
+  public: false
+  metadata: []
+j:
+  x: 9764.299800
+  "y": 31.000000
+  z: 100656.453100
+  level: a
+  public: false
+  metadata: []
+l:
+  x: 9754.315400
+  "y": 30.000000
+  z: 100834.640600
+  level: a
+  public: false
+  metadata: []
+plot:
+  x: 17.007600
+  "y": 66.500000
+  z: 16.006300
+  level: PLOT2
+  public: true
+  metadata: []
+m:
+  x: 9756.299800
+  "y": 36.000000
+  z: 100944.531300
+  level: a
+  public: false
+  metadata: []
+k:
+  x: 9762.334000
+  "y": 30.000000
+  z: 100711.570300
+  level: a
+  public: false
+  metadata: []
+donator:
+  x: 9852.299800
+  "y": 34.000000
+  z: 100925.773400
+  level: a
+  public: false
+  metadata: []
+"n":
+  x: 9753.299800
+  "y": 37.000000
+  z: 101005.585900
+  level: a
+  public: false
+  metadata: []
+...

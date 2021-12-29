@@ -1,0 +1,18 @@
+settoken:
+- settoken
+seepoint:
+- seepoint
+mytoken:
+- mytoken
+paytoken:
+- paytoken
+givetoken:
+- givetoken
+toptoken:
+- toptoken
+setlang:
+- setlang
+taketoken:
+- taketoken
+mystatust:
+- mystatust

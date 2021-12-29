@@ -1,0 +1,142 @@
+# AnywhereBackpack Configuration File
+
+# ------------------------------- Messages -----------------------------------
+
+# Will be sent if backpack chest is not compatible with this version
+# (Made in pervious version)
+
+not-compatible-backpack: §cThis backpack is broken. Create new one.
+
+# ----------------------------------------------------------------------------
+
+# Will be sent if player tried to open specific backpack with command but doesn't have permission
+
+open-specific-backpack-noperm: §cYou don't have permission to open specific backpack
+
+# ----------------------------------------------------------------------------
+
+# Will be sent if player tried to open with specific backpack but it doesn't registered yet
+# Replacement    %id: Tried to open id
+
+cannot-open-notregistered-backpack: §cBackpack ID %id is not registered yet
+
+# ----------------------------------------------------------------------------
+
+# Will be sent if player tried to open with command but doesn't have backpack in hand
+
+cannot-open-nobackpack: §cYou must have backpack to open with command
+
+# ----------------------------------------------------------------------------
+
+# Backpack Inventory Name
+# (Will be displayed on chest)
+
+backpack-inventory-name: '§7§k|| §r§aBACKPACK §7§k||'
+
+# ----------------------------------------------------------------------------
+
+# Will send this message when player tried to open with command although command is disabled
+
+message-open-command-rejected: Can't open backpack. please make backpack item and open it.
+
+# ----------------------------------------------------------------------------
+
+
+
+
+
+
+# ------------------------------- Switch -------------------------------------
+
+# Allow player to manage all backpacks who has permission
+# Type '/backpack manage' to manage
+
+management-backpack-switch: true
+
+# ----------------------------------------------------------------------------
+
+# Allow to open backpack with command (/backpack)
+# (if set to true, everyone can open backpack with /backpack command)
+
+allow-open-with-command: false
+
+# ----------------------------------------------------------------------------
+
+# Allow to open specific backpack with id
+# - if set to false, players can open the backpack who have
+# - and if set to true, you can open by id with /backpack ID (e.g. /backpack 5)
+
+allow-open-specific-backpack: false
+
+# ----------------------------------------------------------------------------
+
+# Allow player to open specific who has permission
+# (If set to false, all players can open specific backpack with command)
+# (Permission: anywherebackpack.a2openspecificbackpack)
+
+open-specific-onlypermitted: true
+
+# ----------------------------------------------------------------------------
+
+# Allow to open backpack specific world
+# (If set to false, everyone can open backpack in all worlds)
+# (But if set to world name, everyone can only open in your typed world)
+
+allow-open-specific-world: false
+
+# ----------------------------------------------------------------------------
+
+
+
+
+
+
+# ------------------------------ Saving Data --------------------------------
+
+# Clear all backpack every server start  (NOT RECOMMEND)
+# (If set to false, all of backpacks are saved on database)
+
+reset-every-server-start: false
+
+# ----------------------------------------------------------------------------
+
+# Save Type
+# Available: SQLite3, MySQL
+
+backpack-savetype: SQLite3
+
+# ----------------------------------------------------------------------------
+
+
+
+
+
+
+# ----------------------- Database Settings (MYSQL) --------------------------
+
+# Enter database information
+# (You don't have to edit this if you choose 'SQLite3'.)
+
+#Database host
+database-host: example.com
+
+#Database Username
+database-username: DBUsername
+
+#Database Password
+database-password: examplePass
+
+#Database Name
+database-name: DBName
+
+#Database Port (Default: 3306)
+database-port: 3306
+
+# ----------------------------------------------------------------------------
+
+
+
+
+
+# ---------------------------- Don't Edit this -------------------------------
+config-version: 1.5.1

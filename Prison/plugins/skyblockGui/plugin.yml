@@ -1,0 +1,7 @@
+name: skyblockgui
+version: 1.12
+api: 3.5.8
+main: test
+commands:
+sbgui:
+description: "test"

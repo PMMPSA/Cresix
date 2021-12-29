@@ -1,0 +1,9 @@
+# PiggyCustomEnchantsShop Configuration
+
+# Whether to use SignShop or UIShop.
+# Options: sign | ui
+shop-type: ui
+
+# If SignShop is enabled, require users to double click for purchase.
+# Options: true | false
+double-tap: false

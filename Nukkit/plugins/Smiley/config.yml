@@ -1,0 +1,11 @@
+smiley:
+  console: true
+  commands: true
+  colors: true
+  sign:
+    enable-smileys: true
+    colored-smileys: false
+  default-chat-color: '&f'
+general:
+  language: english
+  debug-mode: false

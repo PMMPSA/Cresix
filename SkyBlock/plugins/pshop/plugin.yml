@@ -1,0 +1,9 @@
+name: pointshop
+main: pshop\Main
+api: 3.5.8
+version: 1.12
+author: HeraldicClaw597
+
+commands:
+ pshop:
+  description: "§l§alkhu shop chỉ bán đồ point"

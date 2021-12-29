@@ -1,0 +1,120 @@
+---
+1:
+  # ITEM FORMAT: "id:damage:count:name:ench_name:ench_level"
+  # NO enchantments and NO custom name: "id:damage:count"
+
+  # ONLY custom name: "id:damage:count:custom name"
+
+  # ONLY enchantments: "id:damage:count:DEFAULT:enchantment1:level"
+  # (Put DEFAULT in the name field if you do not want a custom name)
+  # You can put as many enchantments as you want like this: "id:damage:count:DEFAULT:enchantment1:level:enchantment2:level" etc.
+
+  # Enchantments AND custom name: "id:damage:count:custom name:enchantment1:level"
+  # You can put as many enchantments as you want like this: "id:damage:count:custom name:enchantment1:level:enchantment2:level" etc.
+
+  # You can write both numeric or string IDs
+  items:
+  - ""
+  - ""
+  helmet: ""
+  chestplate: ""
+  leggings: ""
+  boots: ""
+
+  # Set items for specific slots, will override existing items. Only use if you want to assign items to specific slots, otherwise delete this.
+  slots:
+    9: ""
+    12: ""
+
+  commands:
+  - ""
+
+  cooldown:
+    hours: 0
+    minutes: 0
+
+  # EFFECT FORMAT: "name:seconds:amplifier"
+  effects:
+  - "speed:10000000:1"
+
+  # Add a cost for the kit. Compatible with EconomyAPI, PocketMoney and MassiveEconomy
+  # Put 0 if you want the kit to be free
+  money: 0
+
+  # If you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  # Leave blank to let use the kit in all worlds
+  worlds:
+  - "kitpvp"
+
+  # If you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  # Leave blank to let all the players use this kit
+  users:
+  - "luca28pet"
+  - "dioconsole"
+
+  # FormAPI users:
+  # Img type: 'url' or 'path'
+  img-type: ''
+  # Put here the image URL/path
+  img-data: ''
+  # How the kit is displayed on the form
+  form-name: 'Test Kit: 50$'
+
+2:
+  items:
+  - ''
+  - ''
+  - ''
+  - ''
+  commands:
+  - ''
+  cooldown:
+    hours: 0
+    minutes: 0
+  effects:
+  - "speed:10000000:2"
+  money: 0
+3:
+  items:
+  - ''
+  - ''
+  - ''
+  - ''
+  
+  commands:
+  - ""
+  cooldown:
+    hours: 0
+    minutes: 0
+  effects:
+  - "speed:1000000:3"
+  money: 0
+4:
+  items:
+  - ''
+  - ''
+  - ''
+  - ''
+  commands:
+  - ""
+  cooldown:
+    hours: 0
+    minutes: 0
+  effects:
+  - "speed:1000000:4"
+  money: 0
+5:
+  items:
+  - ''
+  - ''
+  - ''
+  - ''
+  commands:
+  - ""
+  cooldown:
+    hours: 0
+    minutes: 0
+  effects:
+  - "speed:1000000:5"
+  money: 0
+...

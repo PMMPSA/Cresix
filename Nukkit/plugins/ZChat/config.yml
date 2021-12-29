@@ -1,0 +1,64 @@
+#NameTag update in ticks. (20 ticks = 1 second)
+NameTag_update: 20
+
+#Do processes in async. (Chat will not be effected. Saving config, nametag update and stuff like that will be effected)
+AsyncMode: true
+
+#Standalone mode is a mode that allows you to format chat without any 3rd party permission manager and uses it's own group, prefix and suffix.
+#Just like a permission manager, you can put players in a group and use it's format but THIS WON'T MANAGE YOUR PERMISSIONS.
+
+#Player's default group when standalone mode is enabled
+StandaloneDefaultGroup: "Guest"
+#Default prefix when standalone mode is enabled
+StandaloneDefaultPrefix: ""
+#Default suffix when standalone mode is enabled
+StandaloneDefaultSuffix: ""
+#Run ZChat in standalone more without checking any permission plugin
+ForceStandaloneMode: false
+
+#The message for muted players
+MutedMessage: "You are muted!"
+
+#ChatCooldown enables cooldown for chat
+ChatCooldown: false
+#ChatCooldownTimer in seconds
+ChatCooldownTimer: 3
+#ChatCooldownMessage is the message you will receive when your chat is cancelled because of cooldown. You can also use %cooldown% placeholder for this message to get remaining time.
+ChatCooldownMessage: "You're typing too fast. Please slow down"
+
+#CommandCooldown enables cooldown for command
+CommandCooldown: false
+#CommandCooldownTimer in seconds
+CommandCooldownTimer: 3
+#CommandCooldownMessage is the message you will receive when your command is cancelled because of cooldown. You can also use %cooldown% placeholder for this message to get remaining time.
+CommandCooldownMessage: "You're typing too fast. Please slow down"
+
+#The following configs containing "PerWorld" allows you to set formats unique to specific worlds
+
+#Use per-world chat formatting
+ChatFormatPerWorld: false
+#Use per-world name tag formatting
+NameTagFormatPerWorld: false
+#Enable custom death message
+DeathMessageFormatting: true
+#Enable death message per-world formatting
+DeathMessageFormatPerWorld: false
+
+#Reveals PMs to players with permission
+pm_reveal: false
+
+#CommandBlocker blocks commands for groups or both per world
+CommandBlocker: false
+#CommandBlockingPerWorld enables Per-World for CommandBlocker
+CommandBlockingPerWorld: false
+#CommandBlockerReply is what players sees in return
+CommandBlockerreply: "You cannot use this command!"
+
+#Nickname prefix is just a prefix that shows if the player is using a nick name or not. This is optional. Though, if you want to remove it, use "".
+NickPrefix: "~"
+#NickMinChar sets the minimum number characters allowed to set as a nickname.
+NickMinChar: 3
+#NickMaxChar sets the maximum number of characters allowed to set as a nickname. (Keep it under 100)
+NickMaxChar: 16
+#If players should be able to set nicks that are already taken
+NickDuplication: false

@@ -1,0 +1,5 @@
+floor_radius: 4
+floor_type: wool
+color_change_interval: 5
+type: 0
+aggressive: false

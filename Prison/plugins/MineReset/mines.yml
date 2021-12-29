@@ -1,0 +1,56 @@
+---
+vang:
+- -39
+- -11
+- 7
+- 27
+- 111
+- 139
+- 41: "70"
+  14: "30"
+- PrisonMinesByJusser
+- -1
+diamond:
+- -18
+- 8
+- 8
+- 25
+- -155
+- -130
+- 57: "70"
+  133: "30"
+- PrisonMinesByJusser
+- -1
+silver:
+- -71
+- -40
+- 7
+- 28
+- -15
+- 15
+- 42: "70"
+  15: "30"
+- PrisonMinesByJusser
+- -1
+tam:
+- -221
+- -201
+- 49
+- 64
+- -359
+- -341
+- false
+- adcid
+- -1
+topmoney:
+- 198
+- 247
+- 1
+- 30
+- 213
+- 262
+- diamond_ore: "50"
+  emerald_ore: "50"
+- mine
+- -1
+...

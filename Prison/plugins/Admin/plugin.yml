@@ -1,0 +1,11 @@
+name: Admin
+main: nlog\Admin\Main
+version: 1.0.0
+author: nlog
+api:
+ - 3.0.0
+
+commands:
+ admin:
+  permission: op
+  description: Set Admin player

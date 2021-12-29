@@ -1,0 +1,11 @@
+name: CommandTracker
+version: 1.0.1
+api: 3.0.0
+main: InspectorGadget\CommandTracker\Handler
+author: InspectorGadget
+permissions:
+  commandtracker:
+    default: op
+    children:
+      commandtracker.exempt:
+        description: "Perm node for Exempting the Command Trace"

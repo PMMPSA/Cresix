@@ -1,0 +1,11 @@
+{
+  "worlds": {
+    "world": {
+      "place": true,
+      "break": true,
+      "pvp": true,
+      "damage": true,
+      "flint_and_steel_use": true
+    }
+  }
+}

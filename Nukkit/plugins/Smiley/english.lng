@@ -1,0 +1,12 @@
+cmd_reload: Configuration reloaded
+cmd_perm_req: You have not enough permissions to execute this command
+lng_load_fail: Failed to load languages from file. Default message used
+lng_save_fail: Failed to save language file
+lng_print_fail: Failed to print message %1%. Sender object is null.
+lng_config: '[MESSAGES] Messages: %1% Language: %2% Save translate file: %1% Debug
+  mode: %3%'
+word_unknown: Unknown
+smiley_list: Smiley list
+smiley_list_footer: Page [%1% / [%2%]
+smiley_list_empty: Smileys not found
+reloaded: Configuration reloaded!

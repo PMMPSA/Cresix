@@ -1,0 +1,13 @@
+---
+version: 1.0.3
+'# settings': Configuration settings
+settings:
+  '# global': If true all worlds share the same VaultChest
+  global: false
+  '# particles': Decorate VaultChest...
+  particles: true
+  '# p-ticks': Particle ticks
+  p-ticks: 20
+  '# base-block': Block to use for the base
+  base-block: BEDROCK
+...

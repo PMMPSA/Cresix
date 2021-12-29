@@ -1,0 +1,16 @@
+#Positions of the floating texts
+Positions:
+    - world: Spawn
+      x: -1121
+      "y": 68
+      z: 157
+#API-Key of your server provided by minecraftpocket-servers.com
+API-Key: "Ktlw9uCEGywHuhISlQtN7bJhnuMyPbu2FL"
+#Amount of voters who shall be shown (Max: 500)
+Amount: 5
+#Update interval of the query to the server in seconds
+Update-Interval: 180
+#Header of the floating text particle
+Header: "§6Top voters of the month <3"
+#Text for every row after the header
+Text: "§a{player} §d{votes}"

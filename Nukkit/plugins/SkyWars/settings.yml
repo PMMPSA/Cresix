@@ -1,0 +1,26 @@
+lobbyX: 128.0
+lobbyY: 54.0
+lobbyZ: 128.0
+lobbyWorld: world
+dataProvider:
+  yaml: true
+  mysql: false
+economyapi-enabled: true
+customeconomy-enabled: false
+joinMessage-enabled: false
+quitMessage-enabled: false
+hologram-enabled: false
+hologramX: 128.0
+hologramY: 51.5
+hologramZ: 128.0
+hologramWorld: world
+price:
+  kit:
+    builder: 10000
+    soldier: 15000
+reward-amount: 100
+mysql:
+  url: ''
+  login: ''
+  password: ''
+  database: ''

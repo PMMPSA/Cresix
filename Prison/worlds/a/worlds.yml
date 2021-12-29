@@ -1,0 +1,9 @@
+---
+pvp: "false"
+hunger: "false"
+build: "true"
+damage: "false"
+fly: "false"
+gamemode: "0"
+explode: "false"
+...

@@ -1,0 +1,18 @@
+---
+userName: DinhNgocDuy1412
+group: Topmoney
+permissions:
+- simplewarp.warp.b
+- simplewarp.warp.c
+- simplewarp.warp.d
+- simplewarp.warp.e
+- simplewarp.warp.f
+- simplewarp.warp.g
+- simplewarp.warp.h
+- pocketmine.command.op
+- blockcmd.access
+worlds: []
+time: -1
+expTime: -1
+prefix: 2
+...
